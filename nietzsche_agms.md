@@ -1,17 +1,34 @@
 ---
 # YAML metadata
-title: "The labyrinth of Nietzsche's illness"
+title: "Im Labyrinth von Nietzsches Krankheit"
 author: "Matthew Brett"
 linkcolor: blue
 urlcolor: blue
 bibliography: nietzsche.bib
 ---
 
-# The Labyrinth
+# Im Labyrinth
 
 ![](images/nlk_cover.jpg){height=80%}
 
 [@volz1990nietzsche]]
+
+# Die Reise
+
+* Geboren 1844
+* 1869: Professor der Philogie in Basel (24 Jahre).
+* Ab 1871 - immer häufiger auftretende, lähmende Anfälle von Kopfschmerzen,
+  Erbrechen und Augenschmerzen.
+* 1872: „Geburt der Tragödie“.
+* 1878/79: „Menschliches, Allzumenschliches".
+* 1883-85: „Also sprach Zarathustra“.
+* 1888: Anzeichen von Manie.
+* Jan. 1889: Zusammenbruch in Turin, Einweisung in die Heilanstalt Basel.
+  Diagnostiziert als „progressive Paralyse".
+* 1889-1890: fortschreitender Verfall.
+* 24. August 1890: Tod durch Schlaganfall und Lungenentzündung.
+
+<!---
 # Journey
 
 * Born 1844
@@ -26,70 +43,78 @@ bibliography: nietzsche.bib
   "progressive paralysis".
 * 1889-1890: progressive decline.
 * 24 August 1890: death from stroke, pneumonia.
+-->
 
-# From this (1875)
+# von diesem (1875)
 
 ![](images/n_hartmann_1875.jpg){height=80%}
 
-# To this (1889)
+# zu diesem (1889)
 
 ![](images/n_olde_1899.jpg){width=80%}
 
-# Why is this interesting?
+# Warum ist das interessant?
 
-* Terrible confusion and controversy about diagnosis.
-* Writers with humanities backgrounds tend to assume much of N's illness was
-  psychosomatic.
-* Hero or fool?
+* Schreckliche Verwirrung und Kontroverse über die Diagnose.
+* Schriftsteller mit geisteswissenschaftlichem Hintergrund neigen zu der
+  Annahme, dass ein Großteil von Ns Krankheit psychosomatisch war.
+* Held oder Narr?
 
 # Confusion
 
-* Progressive paralysis (syphilis), initial diagnosis by admitting physician
-  in Basel, reasserted by Otto Binswanger in Jena, and later [@volz1990nietzsche].
-* "manic-depressive illness, probably followed by multi-infarct dementia"
-  [@cybulska2000madness].
-* Menigioma [@sax2003meningioma].
-* Fronto-temporal dementia [@orth2006nietzsche_ftd].
+
+* Progressive Paralyse (Syphilis), Erstdiagnose des einweisenden Arztes in
+  Basel in Basel, bestätigt durch Otto Binswanger in Jena, und später
+  [@volz1990nietzsche].
+* Manisch-depressive Erkrankung, wahrscheinlich gefolgt von einer
+  Multi-Infarkt-Demenz [@cybulska2000madness].
+* Menigiom [@sax2003meningioma].
+* Fronto-temporale Demenz [@orth2006nietzsche_ftd].
 * Cerebral autosomal dominant arteriopathy with subcortical infarcts and
   leukoencephalopathy (CADASIL) [@hemelsoet2008neurological].
 * Mitochondrial encephalomyopathy (MELAS) [@koszka2009melas].
 
-# Assertions 1: "almost certainly"
+# Behauptungen 1: "almost certainly"
 
-> This article examines how Nietzsche’s illness bears on his philosophical ideas. It demonstrates that the long-standard explanation for Nietzsche’s dementia—syphilis—is almost certainly false. The cause is much more likely to have been a brain tumor, which had caused him severe headaches and eye problems since childhood. [@huenemann2013nietzsches_illness].
+> This article examines how Nietzsche’s illness bears on his philosophical
+ideas. It demonstrates that the long-standard explanation for Nietzsche’s
+dementia—syphilis—is almost certainly false. The cause is much more likely to
+have been a brain tumor, which had caused him severe headaches and eye problems
+since childhood. [@huenemann2013nietzsches_illness].
 
-# Assertions 2: no-one will ever know.
+# Behauptungen 2: niemand wird es je erfahren
 
 > I have avoided any retrospective diagnosis, the curse of Nietzsche
 scholarship ever since Nietzsche’s death. Here, as elsewhere, we can only rely
-on the observations and comments of his contemporaries as to what "disease"
-was from which he suffered. The contradictions and quarrels tell us more about
+on the observations and comments of his contemporaries as to what "disease" was
+from which he suffered. The contradictions and quarrels tell us more about
 those making the diagnosis than about Nietzsche’s actual illness or illnesses.
 — [@gilman2009eiser].
 
-# Assertions 3: the nervous Nietzsche
+# Behauptungen 3: der nervöse Nietzsche
 
 > These fits of nausea and vomiting were almost certainly psychosomatic
 symptoms of nervous anxiety over his friends' reactions to his new book.
 [@cate2005friedrich].
 
-# Some key facts — father
+# Einige wichtige Fakten - Vater
 
-July 1849: father dies age 36 of a progressive neurological illness, of duration at least many months.
+Juli 1849: Der Vater stirbt im Alter von 36 Jahren an einer fortschreitenden
+neurologischen Krankheit, die mindestens mehrere Monate andauert.
 
 > „Sein Kopf ist geöffnet worden, und es hat sich bestätigt, daß er an
 Hirnerweichung gestorben ist, welche schon ein vierthel seines Kopfes
 eingenommen hatte." (GSA 100/446) [@goch2000nietzsches_vater, p385].
 
-# Early illness
+# Frühe Krankheit
 
-* August 1856 : "schlechten Augen",  (letter to FZN).
-* 1858–1864 : Schulpforta, Naumburg.  Frequent sickness requiring time off
-  school, headaches, rheumatism.
-* Attacks accelerate markedly in 1872, reach extremes of 118 sick days in
-  1879, start to subside in 1892.
+* August 1856 : „schlechte Augen“, (Brief an FZN).
+* 1858-1864 : Schulpforta, Naumburg. Häufige Krankheiten, die eine Beurlaubung
+  von der Schule, Kopfschmerzen, Rheumatismus.
+* Die Anfälle nehmen 1872 deutlich zu, erreichen mit 118 Krankheitstagen 1879
+  einen Höchststand. 1879, beginnen 1892 abzuflauen.
 
-# An attack — 1875
+# Ein Anfall — 1875
 
 > Ich habe eine sehr schlimme Zeit hinter mir und vielleicht eine noch
 schlimmere vor mir. Der Magen war gar nicht mehr zu bändigen, auch bei der
@@ -103,38 +128,38 @@ Bluterbrechen. Ich musste 14 Tage lang Höllenstein-Auflösung einnehmen, es
 half nichts. Jetzt giebt er mir täglich zweimal ausserordentlich grosse Dosen
 von Chinin. --- Brief AN Carl von Gersdorff: um 26. Juni 1875.
 
-# Opthalmoscope
+# Ophthamoskopie
 
 > Der Augenspiegel zeigt in beiden Augen die Produkte einer Chorioretinitis
 centralis, im rechten Auge erheblich stärker als im linken. — Dr Otto Eiser,
 [@volz1990nietzsche].
 
-# Eyes
+# Die Augen
 
 ![](images/n_hartmann_1875.jpg){height=80%}
 
-# The diagnostic problem
+# Das diagnostische Problem
 
 Explicanda:
 
-* Father's illness
-* Early eye pain and headaches (from age <= 11)
-* Very severe and very frequent headaches (from 1872).
+* Krankheit des Vaters
+* Frühe Augenschmerzen und Kopfschmerzen (ab Alter <= 11)
+* Sehr starke und sehr häufige Kopfschmerzen (ab 1872).
 * Chorioretinitis
-* Mania and progressive dementia.
+* Manie und fortschreitende Demenz.
 
-Some diagnoses seem much more likely than others.  How should we persuade our
-academic colleagues of this?  Bayesian / likelihood reasoning?
+Einige Diagnosen scheinen viel wahrscheinlicher als andere. Wie sollten wir
+unsere akademischen Kollegen davon überzeugen? Bayes'sche
+Statistik/Wahrscheinlichkeitsrechnung?
 
-# Suggestions
+# Vorschläge
 
-Time for the audience.
+Ihre Meinung.
 
+# Das Ende
 
-# The end
-
-Materials at <https://github.com/nietzsches-illness/nietzsche-agms>.
+Materialien unter <https://github.com/nietzsches-illness/nietzsche-agms>.
 
 <#ifdef HANDOUT>
-# References
+# Quellenangaben
 <#endif>
