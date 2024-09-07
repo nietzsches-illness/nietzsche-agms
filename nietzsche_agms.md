@@ -60,8 +60,7 @@ bibliography: nietzsche.bib
   Annahme, dass ein Großteil von Ns Krankheit psychosomatisch war.
 * Held oder Narr?
 
-# Confusion
-
+# Verwirrung
 
 * Progressive Paralyse (Syphilis), Erstdiagnose des einweisenden Arztes in
   Basel in Basel, bestätigt durch Otto Binswanger in Jena, und später
