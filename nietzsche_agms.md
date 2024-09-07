@@ -16,17 +16,17 @@ bibliography: nietzsche.bib
 # Die Reise
 
 * Geboren 1844
-* 1869: Professor der Philogie in Basel (24 Jahre).
+* 1869: Professor der Philogie in Basel (24 Jahre alt).
 * Ab 1871 - immer häufiger auftretende, lähmende Anfälle von Kopfschmerzen,
   Erbrechen und Augenschmerzen.
 * 1872: „Geburt der Tragödie“.
 * 1878/79: „Menschliches, Allzumenschliches".
 * 1883-85: „Also sprach Zarathustra“.
 * 1888: Anzeichen von Manie.
-* Jan. 1889: Zusammenbruch in Turin, Einweisung in die Heilanstalt Basel.
+* Januar 1889: Zusammenbruch in Turin, Einweisung in die Heilanstalt Basel.
   Diagnostiziert als „progressive Paralyse".
 * 1889-1890: fortschreitender Verfall.
-* 24. August 1890: Tod durch Schlaganfall und Lungenentzündung.
+* 24 August 1890: Tod durch Schlaganfall und Lungenentzündung.
 
 <!---
 # Journey
