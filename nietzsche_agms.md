@@ -4,14 +4,14 @@ title: "Im Labyrinth von Nietzsches Krankheit"
 author: "Matthew Brett"
 linkcolor: blue
 urlcolor: blue
-bibliography: nietzsche.bib
+bibliography: nietzsche-illness-bib/nietzsche_illness.bib
 ---
 
 # Im Labyrinth
 
 ![](images/nlk_cover.jpg){height=80%}
 
-[@volz1990nietzsche]]
+[@volz1990labyrinth]
 
 # Die Reise
 
@@ -64,7 +64,7 @@ bibliography: nietzsche.bib
 
 * Progressive Paralyse (Syphilis), Erstdiagnose des einweisenden Arztes in
   Basel in Basel, bestätigt durch Otto Binswanger in Jena, und später
-  [@volz1990nietzsche].
+  [@volz1990labyrinth].
 * Manisch-depressive Erkrankung, wahrscheinlich gefolgt von einer
   Multi-Infarkt-Demenz [@cybulska2000madness].
 * Menigiom [@sax2003meningioma].
@@ -131,7 +131,7 @@ von Chinin. --- Brief AN Carl von Gersdorff: um 26. Juni 1875.
 
 > Der Augenspiegel zeigt in beiden Augen die Produkte einer Chorioretinitis
 centralis, im rechten Auge erheblich stärker als im linken. — Dr Otto Eiser,
-[@volz1990nietzsche].
+[@volz1990labyrinth].
 
 # Die Augen
 
